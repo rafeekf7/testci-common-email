@@ -45,7 +45,7 @@
         <developerConnection>scm:svn:https://svn.apache.org/repos/asf/commons/proper/email/trunk</developerConnection>
         <url>http://svn.apache.org/viewvc/commons/proper/email/trunk</url>
     </scm> 
-
+    <!-- test -->
     <developers>
         <developer>
             <name>dIon Gillard</name>
